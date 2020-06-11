@@ -12,4 +12,4 @@ paste our code in it
 right click on created snippet and select run
 finish
 
-you can see download link in below of vedeo
+you can see download link in below of video
